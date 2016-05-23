@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FqhBdAd</string>
+    <string name="bannerBar_name">赚钱资讯</string>
+    <string name="action_settings">Settings</string>
+   <!-- <string name="adCode">c3c8cf88</string> 自己的key -->
+    <string name="adCode">e866cfb0</string><!--测试key-->
+
+</resources>
